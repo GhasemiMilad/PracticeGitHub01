@@ -3,8 +3,11 @@ package practicegithub.java;
 public class GitHubPractice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		
+		
+		// github is too much
+		
 	}
 
 }
